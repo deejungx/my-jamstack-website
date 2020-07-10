@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Dee Jung
 tagline: Web Developer
-featuredImage: /assets/img-5b533fcb39c41f76a66f1e4133c7fd3a-v.jpg
+featuredImage: /assets/img-20200524-wa0006.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
